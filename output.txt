@@ -1,3 +1,0 @@
-Python
-c++c#
-php
